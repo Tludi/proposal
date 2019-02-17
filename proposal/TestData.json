@@ -1,0 +1,14 @@
+[
+    {
+        "id": "5",
+        "proposalName": "Opening Scene",
+        "proposalDescription": "This is the opening scene in which the rest of the story will grow from",
+        "proposalPrice": 100.00
+    },
+    {
+        "id": "55",
+        "proposalName": "End Scene",
+        "proposalDescription": "This is the end scene in which the story is finished",
+        "proposalPrice": 100.00
+    }
+]
